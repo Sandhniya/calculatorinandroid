@@ -354,9 +354,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 </LinearLayout>
 ```
 ### output
-<img width="1920" height="1080" alt="Screenshot 2026-08-18 132206" src="https://github.com/user-attachments/assets/716d7a5b-5d48-4f19-8c6c-16203ada2479" />
 
-<img width="1920" height="1080" alt="Screenshot 2026-08-18 132223" src="https://github.com/user-attachments/assets/e8b8e9eb-f1d9-45a5-b8f8-e6e0d07139e5" />
+<img width="1601" height="810" alt="image" src="https://github.com/user-attachments/assets/af8e8caf-d43b-46bc-a436-1e4771b06a69" />
+
+<img width="1617" height="817" alt="image" src="https://github.com/user-attachments/assets/a2606a1c-9993-4e39-9f0d-6e07ce192150" />
+
 
 ## RESULT
 Thus a Simple Android Application create a simple calculator using Android Studio is developed and executed successfully.
